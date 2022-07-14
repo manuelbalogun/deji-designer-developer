@@ -1,4 +1,4 @@
-/* Generated on: Thu Jul 14 2022 16:12:17 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Thu Jul 14 2022 16:14:46 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -1836,6 +1836,10 @@ p {
     padding-left: 104px;
   }
 
+  .heading-32._24px_margin_bottom {
+    max-width: 360px;
+  }
+
   .process {
     padding-right: 104px;
     padding-left: 104px;
@@ -1991,6 +1995,10 @@ p {
 
   .gradient-text.hero {
     font-size: 72px;
+  }
+
+  .heading-32._24px_margin_bottom {
+    max-width: 360px;
   }
 
   .studies.case-study {
