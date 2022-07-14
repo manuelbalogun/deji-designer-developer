@@ -1,4 +1,4 @@
-/* Generated on: Wed Jul 06 2022 15:05:00 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Thu Jul 14 2022 14:50:22 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -153,7 +153,7 @@ p {
 .hero-section {
   position: static;
   height: 70vh;
-  max-width: 75%;
+  max-width: 80%;
   padding-top: 10vh;
   padding-right: 88px;
   padding-left: 88px;
@@ -184,6 +184,7 @@ p {
 }
 
 .hero-text-block {
+  max-width: 100%;
   margin-left: 0px;
 }
 
@@ -1794,7 +1795,7 @@ p {
   }
 
   .hero-text-block {
-    max-width: 65%;
+    max-width: 70%;
   }
 
   .paragraph_20.hero-paragraph.light-grey {
@@ -2134,7 +2135,7 @@ p {
 
   .hero-section {
     height: 60vh;
-    max-width: 100%;
+    max-width: 95%;
     margin-bottom: 10vh;
     padding: 20vh 40px 0px;
   }
@@ -2525,6 +2526,7 @@ p {
 
   .hero-section {
     height: auto;
+    max-width: 95%;
     padding-top: 20vh;
     padding-right: 40px;
     padding-left: 40px;
@@ -2872,6 +2874,7 @@ p {
   }
 
   .hero-section {
+    max-width: 100%;
     margin-bottom: 5vh;
     padding: 16vh 20px 0px;
   }
