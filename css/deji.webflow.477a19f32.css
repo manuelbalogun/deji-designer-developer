@@ -1,4 +1,4 @@
-/* Generated on: Thu Jul 14 2022 14:51:14 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Thu Jul 14 2022 14:54:29 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -1172,6 +1172,7 @@ p {
 .my-name {
   color: #fff;
   font-weight: 700;
+  text-transform: capitalize;
 }
 
 .emoji {
