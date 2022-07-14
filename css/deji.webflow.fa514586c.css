@@ -1,4 +1,4 @@
-/* Generated on: Thu Jul 14 2022 16:14:46 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Thu Jul 14 2022 16:57:42 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -1995,6 +1995,10 @@ p {
 
   .gradient-text.hero {
     font-size: 72px;
+  }
+
+  .paragraph_18.light-grey.table {
+    width: 90%;
   }
 
   .heading-32._24px_margin_bottom {
