@@ -1,4 +1,4 @@
-/* Generated on: Mon Aug 08 2022 21:23:06 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Aug 08 2022 21:46:57 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -747,6 +747,7 @@ p {
 .project-image {
   width: 100%;
   height: auto;
+  background-color: #080808;
   -o-object-fit: cover;
   object-fit: cover;
 }
@@ -757,7 +758,7 @@ p {
   border-style: solid;
   border-width: 0.5px;
   border-color: #181823;
-  background-color: rgba(24, 24, 35, 0.15);
+  background-color: transparent;
 }
 
 .paragraph {
