@@ -1,4 +1,4 @@
-/* Generated on: Mon Aug 08 2022 20:56:32 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Aug 08 2022 21:09:36 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -2509,7 +2509,7 @@ p {
 
   .nav-link:hover {
     display: block;
-    background-color: #070413;
+    background-color: #0f0f0f;
   }
 
   .nav-link.button {
@@ -2848,7 +2848,7 @@ p {
 
   .about-me-image {
     width: 100%;
-    height: 75vh;
+    height: 70vh;
   }
 }
 
@@ -3319,7 +3319,7 @@ p {
   }
 
   .about-me-image {
-    height: 50vh;
+    height: 45vh;
   }
 
   .testimonial-profile-text {
@@ -3359,6 +3359,12 @@ p {
   .testimonial-profile-image-1 {
     width: 44px;
     height: 44px;
+  }
+
+  .div-block-6 {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(11, 6, 28, 0.4);
   }
 }
 
