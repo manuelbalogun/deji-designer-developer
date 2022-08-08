@@ -1,4 +1,4 @@
-/* Generated on: Mon Aug 08 2022 21:09:36 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Aug 08 2022 21:12:29 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -1771,6 +1771,12 @@ p {
   background-size: cover;
 }
 
+.div-block-6 {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(8, 8, 8, 0.4);
+}
+
 @media screen and (min-width: 1280px) {
   .wrapper.grid {
     display: block;
@@ -2451,6 +2457,12 @@ p {
   .cursor-wrapper {
     display: none;
   }
+
+  .div-block-6 {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(8, 8, 8, 0.4);
+  }
 }
 
 @media screen and (max-width: 767px) {
@@ -2849,6 +2861,12 @@ p {
   .about-me-image {
     width: 100%;
     height: 70vh;
+  }
+
+  .div-block-6 {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(8, 8, 8, 0.4);
   }
 }
 
@@ -3364,7 +3382,7 @@ p {
   .div-block-6 {
     width: 100%;
     height: 100%;
-    background-color: rgba(11, 6, 28, 0.4);
+    background-color: rgba(8, 8, 8, 0.4);
   }
 }
 
