@@ -1,4 +1,4 @@
-/* Generated on: Mon Aug 08 2022 20:31:24 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Aug 08 2022 20:32:38 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -2113,7 +2113,7 @@ p {
 
   .nav-link {
     padding-left: 40px;
-    background-color: #070413;
+    background-color: #0f0f0f;
     color: #fff;
   }
 
@@ -2150,11 +2150,11 @@ p {
   .menu-button {
     display: none;
     padding: 24px;
-    background-color: #070413;
+    background-color: #0f0f0f;
   }
 
   .menu-button.w--open {
-    background-color: #070413;
+    background-color: #0f0f0f;
   }
 
   .hero-section {
