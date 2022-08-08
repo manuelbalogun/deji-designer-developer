@@ -1,4 +1,4 @@
-/* Generated on: Mon Aug 08 2022 20:35:57 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Aug 08 2022 20:44:39 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -2535,7 +2535,7 @@ p {
 
   .menu-button {
     padding: 30px 24px 28px;
-    background-color: #070413;
+    background-color: transparent;
   }
 
   .menu-button:active {
@@ -2873,8 +2873,17 @@ p {
     grid-template-rows: 40fr auto;
   }
 
+  .nav-bar {
+    background-color: #0f0f0f;
+  }
+
   .nav-link {
     padding-left: 32px;
+    background-color: #0f0f0f;
+  }
+
+  .nav-link:hover {
+    background-color: #0f0f0f;
   }
 
   .nav-link:visited {
@@ -2890,6 +2899,7 @@ p {
     padding-top: 20px;
     padding-right: 20px;
     padding-bottom: 20px;
+    background-color: #0f0f0f;
   }
 
   .menu-button:active {
